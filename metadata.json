@@ -1,8 +1,8 @@
 {
   "name": "CrystalCast",
   "description": "Token for my upcoming Bolt AI prediction app called CrystalCast",
-  "image": "https://via.placeholder.com/150",
-  "decimals": 0,
+  "image": "https://yuccamedia.github.io/CrystalCast-Token/crystalcast.png",
+  "decimals": 6,
   "image_integrity": "sha256-...",
   "image_mimetype": "image/png",
   "properties": {
